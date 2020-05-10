@@ -94,7 +94,7 @@ class MessageContainer extends StatelessWidget {
         margin: EdgeInsets.only(
           bottom: 5.0,
         ),
-        padding: EdgeInsets.all(8.0),
+        padding: EdgeInsets.all(28.0),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.end,
           crossAxisAlignment: CrossAxisAlignment.end,
